@@ -1,2 +1,2 @@
 # DIONavigation
-### Project distined for learling of react-navigation
+### Project distined for learling of react-navigation.
